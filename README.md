@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndraZeroX
-- 👀 I’m interested in Web Dev (Fullstack)
-- 🌱 I’m currently learning an many codes
+- 👀 I’m interested in Web Dev (Backend Dev.)
+- 🌱 I’m currently learning an PHP, JavaScript, Node.js, Laravel, etc.
 - 💞️ I’m looking to collaborate on (?)
-- 📫 How to reach me (Not now)
+- 📫 How to reach me (YouTube, Instagram, Facebook, Twitter.)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like anime.
 
