@@ -1,6 +1,6 @@
 # Hi there, I'm Andra! 👋
 
-![Profile Picture](https://github.com/yourusername/yourrepository/raw/main/azbody.png)
+![Profile Picture](https://github.com/AndraZeroX/AZ-Reps/raw/main/azbody.png)
 
 ## About Me
 Hello! I'm Andra, a passionate programmer specializing in backend development. I am also progressively expanding my skills to become a fullstack developer. I am always eager to learn new technologies and enhance my programming abilities.
